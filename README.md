@@ -1,4 +1,5 @@
 Altyapı Sahibi: Lordlex#0001
+Bloop: https://discord.gg/HF6NttNCHj
 
 Altyapıdaki Özellikler:
 
