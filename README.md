@@ -13,4 +13,7 @@ Altyapı boştur sadece örnek şekilde göstermek amacıyla komutlar oluşturul
 Botun dosyaları src klasöründedir<br>
 Botu başlatmak için node . veya npm run test yazabilirsiniz<br>
 
-config.jsona tokeninizi yazmayı unutmayın ve tokeninizi kimseye vermeyiniz!
+
+Notlar:<br>
+config.jsona tokeninizi yazmayı unutmayın ve tokeninizi kimseye vermeyiniz!<br>
+selectmenu,events ve button id/event isimleri dosya ismidir fakat selectmenu ve buttonun içindeki name isimlerini dosya ismiyle aynı tuttun yoksa çalışmaz
